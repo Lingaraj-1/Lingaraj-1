@@ -1,6 +1,6 @@
-## <h1 align="center">Hi 👋, I'm Lingaraj Hottiyavar</h1>
+ <h1 align="center">Hi 👋, I'm Lingaraj Hottiyavar</h1>
 
-## <h3 align="center">🚀 DevOps Engineer | Linux | Docker | Kubernetes | Terraform | Monitoring</h3>
+ <h3 align="center">🚀 DevOps Engineer | Linux | Docker | Kubernetes | Terraform | Monitoring</h3>
 
 💙 Passionate about automation, cloud technologies, infrastructure as code, container orchestration, and building reliable systems.
 
@@ -23,17 +23,25 @@
 
 Built a complete observability platform using Prometheus, Grafana, Loki, Tempo, and OpenTelemetry.
 
+🔗 Repository: https://github.com/Lingaraj-1/observability-stack-monitoring
+
 ### 🔄 End-to-End CI/CD Pipeline
 
 Implemented automated build, test, and deployment workflows using Jenkins, GitHub Actions, Docker, and Kubernetes.
+
+🔗 Repository: https://github.com/Lingaraj-1/devops-cicd-pipeline
 
 ### ☁️ AWS Infrastructure Automation using Terraform
 
 Provisioned AWS infrastructure using Infrastructure as Code (IaC) principles and Terraform.
 
+🔗 Repository: https://github.com/Lingaraj-1/Terraform-AWS-Devops-Project
+
 ### ❤️ Health Monitoring API System
 
 Built a health monitoring application with automated health checks, monitoring, and logging.
+
+🔗 Repository: https://github.com/Lingaraj-1/Health-monitor-app
 
 ---
 
@@ -69,7 +77,7 @@ Built a health monitoring application with automated health checks, monitoring, 
 
 📧 [lingaraj17jayashree@gmail.com](mailto:lingaraj17jayashree@gmail.com)
 
-🔗 LinkedIn: www.linkedin.com/in/lingarajsh
+🔗 **LinkedIn:** [linkedin.com/in/lingarajsh](https://www.linkedin.com/in/lingarajsh)
 
 
 ---
